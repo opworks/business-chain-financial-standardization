@@ -317,7 +317,7 @@ This financial standardization solution works for:
 
 - 🌐 **Portfolio:** [View more projects](https://github.com/opworks)
 - 📧 **Contact:** Available for business chain financial standardization projects
-- 💼 **Upwork:** [Hire for your next financial data transformation](your-upwork-link)
+- 💼 **Upwork:** [Hire for your next financial data transformation](https://www.upwork.com/freelancers/~0133466fd064ec2dc5?mp_source=share)
 
 ---
 
